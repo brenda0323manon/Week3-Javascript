@@ -15,7 +15,7 @@ class Person {
     }
   }
 
-  
+  ///what thhe programmer inherits from the person
   class Programmer extends Person {
     constructor(name, job, age, languages) {
       super(name, job, age);
