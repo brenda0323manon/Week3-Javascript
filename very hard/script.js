@@ -15,7 +15,7 @@ class Person {
     }
   }
 
-  Wh
+  
   class Programmer extends Person {
     constructor(name, job, age, languages) {
       super(name, job, age);
